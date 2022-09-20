@@ -9,9 +9,9 @@ A suite of CRUD APIs for a contact book app .
 - Delete Contact
 
 ## Requirements
-- Python 3.6
-- Django (2.2.13)
-- Django REST Framework (3.9.4)
+- Python
+- Django 
+- Django REST Framework 
 - Django Rest Auth
 
 ## Set Up Guide ..
